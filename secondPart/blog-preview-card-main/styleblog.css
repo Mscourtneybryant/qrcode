@@ -1,0 +1,148 @@
+.lato-thin {
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .lato-light {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .lato-regular {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .lato-bold {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .lato-black {
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .lato-thin-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .lato-light-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .lato-regular-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .lato-bold-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .lato-black-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+
+body{
+    background-color: #F4D04E;
+}
+
+.blogbox{
+    background-color: white;
+    height: 500px;
+    width: 360px;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 580px;
+    margin-top: 60px;
+    border: solid;
+    border-width: 1px;
+    box-shadow: 10px 10px;
+}
+
+
+.learningTitle{
+    background-color: #F4D04E;
+    border-radius: 5px;
+    width: 70px;
+    text-align: center;
+    padding: 5px;
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-size: 13px;
+    margin-right: 250px;
+}
+
+.yellowpic{
+    border-radius: 6px;
+    margin-top: 50px;
+    width: 320px;
+}
+
+.publishedInfo{
+    font-family: "Lato", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    margin-right: 200px;
+}
+
+.htmlcssHd{
+    color: #F4D04E;
+    font-family: "Lato", sans-serif;
+    font-size: 18px;
+    margin-right: 130px;
+}
+
+.mouseUp{
+    height: 30px;
+    position: relative;
+    bottom: 22px;
+    left: 34px;
+}
+
+.textInfo{
+    font-family: "Lato", sans-serif;
+    margin-right: 50px;
+    font-size: 15px;
+    position: relative;
+    bottom: 32px;
+}
+
+.propic{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+}
+
+.picNname{
+    display: flex;
+    margin-right: 170px;
+    margin-bottom: 20px;
+    position: relative;
+    bottom: 20px;
+}
+
+.name{
+    font-family: "Lato", sans-serif;
+    font-weight:900;
+    font-size: 13px;
+}
